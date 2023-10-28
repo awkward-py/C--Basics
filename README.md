@@ -70,8 +70,6 @@ This repository contains a collection of simple C programs for educational purpo
     - Description: A program demonstrating the while loop in C.
     - Usage: Compile using `gcc while_LOOP.cpp -o while_LOOP` and run with `./while_LOOP`.
 
-Feel free to explore and run these programs to learn and practice C and C++ programming concepts. Contributions by Yash Joshi (awkwardpy) are acknowledged with gratitude.
-
 ---
 
-This updated README provides proper attribution to Yash Joshi (awkwardpy) for their contributions to the code in the repository.# C++-Basics
+Feel free to explore and run these programs to learn and practice C and C++ programming concepts. Contributions by Yash Joshi (awkwardpy) are acknowledged with gratitude.
