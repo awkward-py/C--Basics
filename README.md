@@ -1,6 +1,6 @@
 # C++ Programs
 
-This repository contains a collection of simple C programs for educational purposes. Each program focuses on different C language features and concepts. Some of the code in this repository was contributed by Yash Joshi (awkwardpy). Below is a list of the programs included in this repository:
+This repository contains a collection of simple C++ programs for educational purposes. Each program focuses on different C++ language features and concepts. Some of the code in this repository was contributed by Yash Joshi (awkwardpy). Below is a list of the programs included in this repository:
 
 1. **Arrays.cpp**
    - Description: A program that demonstrates the use of arrays in C.
